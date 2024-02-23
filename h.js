@@ -1,0 +1,1 @@
+DB_URI=mongodb+srv://adamsaleem2030:<adamgta5gta4>@cluster0.7mwe4cx.mongodb.net/?retryWrites=true&w=majority
